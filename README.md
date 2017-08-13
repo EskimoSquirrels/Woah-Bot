@@ -2,6 +2,7 @@
 The Woah Bot
 
 Commands
+!commands     Duh
 !woah         Woah
 !woahs        Woahs
 !<woah#>      Specific Woah
